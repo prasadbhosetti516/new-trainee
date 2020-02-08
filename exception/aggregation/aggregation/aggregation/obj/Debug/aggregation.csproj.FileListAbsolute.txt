@@ -1,0 +1,7 @@
+D:\new trainee\aggregation\aggregation\aggregation\bin\Debug\aggregation.exe.config
+D:\new trainee\aggregation\aggregation\aggregation\bin\Debug\aggregation.exe
+D:\new trainee\aggregation\aggregation\aggregation\bin\Debug\aggregation.pdb
+D:\new trainee\aggregation\aggregation\aggregation\obj\Debug\aggregation.csprojResolveAssemblyReference.cache
+D:\new trainee\aggregation\aggregation\aggregation\obj\Debug\aggregation.csproj.CoreCompileInputs.cache
+D:\new trainee\aggregation\aggregation\aggregation\obj\Debug\aggregation.exe
+D:\new trainee\aggregation\aggregation\aggregation\obj\Debug\aggregation.pdb

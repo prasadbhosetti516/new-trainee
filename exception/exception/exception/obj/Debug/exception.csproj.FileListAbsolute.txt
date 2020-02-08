@@ -1,0 +1,7 @@
+D:\new trainee\exception\exception\exception\bin\Debug\exception.exe.config
+D:\new trainee\exception\exception\exception\bin\Debug\exception.exe
+D:\new trainee\exception\exception\exception\bin\Debug\exception.pdb
+D:\new trainee\exception\exception\exception\obj\Debug\exception.csprojResolveAssemblyReference.cache
+D:\new trainee\exception\exception\exception\obj\Debug\exception.csproj.CoreCompileInputs.cache
+D:\new trainee\exception\exception\exception\obj\Debug\exception.exe
+D:\new trainee\exception\exception\exception\obj\Debug\exception.pdb

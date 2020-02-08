@@ -1,0 +1,7 @@
+D:\new trainee\proprties\proprties\bin\Debug\proprties.exe.config
+D:\new trainee\proprties\proprties\bin\Debug\proprties.exe
+D:\new trainee\proprties\proprties\bin\Debug\proprties.pdb
+D:\new trainee\proprties\proprties\obj\Debug\proprties.csprojResolveAssemblyReference.cache
+D:\new trainee\proprties\proprties\obj\Debug\proprties.csproj.CoreCompileInputs.cache
+D:\new trainee\proprties\proprties\obj\Debug\proprties.exe
+D:\new trainee\proprties\proprties\obj\Debug\proprties.pdb

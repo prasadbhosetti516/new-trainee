@@ -1,0 +1,7 @@
+D:\new trainee\sales staticvv\sales\sales\bin\Debug\sales.exe.config
+D:\new trainee\sales staticvv\sales\sales\bin\Debug\sales.exe
+D:\new trainee\sales staticvv\sales\sales\bin\Debug\sales.pdb
+D:\new trainee\sales staticvv\sales\sales\obj\Debug\sales.csprojResolveAssemblyReference.cache
+D:\new trainee\sales staticvv\sales\sales\obj\Debug\sales.csproj.CoreCompileInputs.cache
+D:\new trainee\sales staticvv\sales\sales\obj\Debug\sales.exe
+D:\new trainee\sales staticvv\sales\sales\obj\Debug\sales.pdb

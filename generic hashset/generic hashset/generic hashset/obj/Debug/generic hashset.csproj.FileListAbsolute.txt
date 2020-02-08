@@ -1,0 +1,7 @@
+D:\new trainee\generic hashset\generic hashset\generic hashset\obj\Debug\generic hashset.csproj.CoreCompileInputs.cache
+D:\new trainee\generic hashset\generic hashset\generic hashset\bin\Debug\generic hashset.exe.config
+D:\new trainee\generic hashset\generic hashset\generic hashset\bin\Debug\generic hashset.exe
+D:\new trainee\generic hashset\generic hashset\generic hashset\bin\Debug\generic hashset.pdb
+D:\new trainee\generic hashset\generic hashset\generic hashset\obj\Debug\generic hashset.exe
+D:\new trainee\generic hashset\generic hashset\generic hashset\obj\Debug\generic hashset.pdb
+D:\new trainee\generic hashset\generic hashset\generic hashset\obj\Debug\generic hashset.csprojResolveAssemblyReference.cache

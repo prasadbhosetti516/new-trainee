@@ -1,0 +1,7 @@
+D:\new trainee\operator ov\Oloading\Oloading\bin\Debug\Oloading.exe.config
+D:\new trainee\operator ov\Oloading\Oloading\bin\Debug\Oloading.exe
+D:\new trainee\operator ov\Oloading\Oloading\bin\Debug\Oloading.pdb
+D:\new trainee\operator ov\Oloading\Oloading\obj\Debug\Oloading.csprojResolveAssemblyReference.cache
+D:\new trainee\operator ov\Oloading\Oloading\obj\Debug\Oloading.csproj.CoreCompileInputs.cache
+D:\new trainee\operator ov\Oloading\Oloading\obj\Debug\Oloading.exe
+D:\new trainee\operator ov\Oloading\Oloading\obj\Debug\Oloading.pdb

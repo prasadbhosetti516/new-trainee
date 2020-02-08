@@ -1,0 +1,7 @@
+D:\new trainee\big task\bigtask\bigtask\bin\Debug\bigtask.exe.config
+D:\new trainee\big task\bigtask\bigtask\bin\Debug\bigtask.exe
+D:\new trainee\big task\bigtask\bigtask\bin\Debug\bigtask.pdb
+D:\new trainee\big task\bigtask\bigtask\obj\Debug\bigtask.csprojResolveAssemblyReference.cache
+D:\new trainee\big task\bigtask\bigtask\obj\Debug\bigtask.csproj.CoreCompileInputs.cache
+D:\new trainee\big task\bigtask\bigtask\obj\Debug\bigtask.exe
+D:\new trainee\big task\bigtask\bigtask\obj\Debug\bigtask.pdb

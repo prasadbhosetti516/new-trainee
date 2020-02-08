@@ -1,0 +1,7 @@
+D:\new trainee\small task inch cm\measure\measure\bin\Debug\measure.exe.config
+D:\new trainee\small task inch cm\measure\measure\bin\Debug\measure.exe
+D:\new trainee\small task inch cm\measure\measure\bin\Debug\measure.pdb
+D:\new trainee\small task inch cm\measure\measure\obj\Debug\measure.csprojResolveAssemblyReference.cache
+D:\new trainee\small task inch cm\measure\measure\obj\Debug\measure.csproj.CoreCompileInputs.cache
+D:\new trainee\small task inch cm\measure\measure\obj\Debug\measure.exe
+D:\new trainee\small task inch cm\measure\measure\obj\Debug\measure.pdb

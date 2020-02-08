@@ -1,0 +1,7 @@
+D:\new trainee\inheri\inheritance\inheritance\bin\Debug\inheritance.exe.config
+D:\new trainee\inheri\inheritance\inheritance\bin\Debug\inheritance.exe
+D:\new trainee\inheri\inheritance\inheritance\bin\Debug\inheritance.pdb
+D:\new trainee\inheri\inheritance\inheritance\obj\Debug\inheritance.csprojResolveAssemblyReference.cache
+D:\new trainee\inheri\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+D:\new trainee\inheri\inheritance\inheritance\obj\Debug\inheritance.exe
+D:\new trainee\inheri\inheritance\inheritance\obj\Debug\inheritance.pdb

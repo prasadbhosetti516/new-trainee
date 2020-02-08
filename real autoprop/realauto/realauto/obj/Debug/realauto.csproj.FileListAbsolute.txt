@@ -1,0 +1,6 @@
+D:\new trainee\real autoprop\realauto\realauto\bin\Debug\realauto.exe.config
+D:\new trainee\real autoprop\realauto\realauto\bin\Debug\realauto.exe
+D:\new trainee\real autoprop\realauto\realauto\bin\Debug\realauto.pdb
+D:\new trainee\real autoprop\realauto\realauto\obj\Debug\realauto.csproj.CoreCompileInputs.cache
+D:\new trainee\real autoprop\realauto\realauto\obj\Debug\realauto.exe
+D:\new trainee\real autoprop\realauto\realauto\obj\Debug\realauto.pdb

@@ -1,0 +1,6 @@
+D:\new trainee\autoproperty\autoproperty\autoproperty\bin\Debug\autoproperty.exe.config
+D:\new trainee\autoproperty\autoproperty\autoproperty\bin\Debug\autoproperty.exe
+D:\new trainee\autoproperty\autoproperty\autoproperty\bin\Debug\autoproperty.pdb
+D:\new trainee\autoproperty\autoproperty\autoproperty\obj\Debug\autoproperty.csproj.CoreCompileInputs.cache
+D:\new trainee\autoproperty\autoproperty\autoproperty\obj\Debug\autoproperty.exe
+D:\new trainee\autoproperty\autoproperty\autoproperty\obj\Debug\autoproperty.pdb

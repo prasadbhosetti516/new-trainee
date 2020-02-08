@@ -1,0 +1,7 @@
+D:\new trainee\genericcolections\generic\generic\bin\Debug\generic.exe.config
+D:\new trainee\genericcolections\generic\generic\bin\Debug\generic.exe
+D:\new trainee\genericcolections\generic\generic\bin\Debug\generic.pdb
+D:\new trainee\genericcolections\generic\generic\obj\Debug\generic.csprojResolveAssemblyReference.cache
+D:\new trainee\genericcolections\generic\generic\obj\Debug\generic.csproj.CoreCompileInputs.cache
+D:\new trainee\genericcolections\generic\generic\obj\Debug\generic.exe
+D:\new trainee\genericcolections\generic\generic\obj\Debug\generic.pdb

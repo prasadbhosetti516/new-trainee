@@ -1,0 +1,7 @@
+D:\new trainee\smalltask\smalltask\bin\Debug\smalltask.exe.config
+D:\new trainee\smalltask\smalltask\bin\Debug\smalltask.exe
+D:\new trainee\smalltask\smalltask\bin\Debug\smalltask.pdb
+D:\new trainee\smalltask\smalltask\obj\Debug\smalltask.csprojResolveAssemblyReference.cache
+D:\new trainee\smalltask\smalltask\obj\Debug\smalltask.csproj.CoreCompileInputs.cache
+D:\new trainee\smalltask\smalltask\obj\Debug\smalltask.exe
+D:\new trainee\smalltask\smalltask\obj\Debug\smalltask.pdb

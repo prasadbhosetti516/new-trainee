@@ -1,0 +1,6 @@
+D:\new trainee\delegate\dele\dele\bin\Debug\dele.exe.config
+D:\new trainee\delegate\dele\dele\bin\Debug\dele.exe
+D:\new trainee\delegate\dele\dele\bin\Debug\dele.pdb
+D:\new trainee\delegate\dele\dele\obj\Debug\dele.csproj.CoreCompileInputs.cache
+D:\new trainee\delegate\dele\dele\obj\Debug\dele.exe
+D:\new trainee\delegate\dele\dele\obj\Debug\dele.pdb

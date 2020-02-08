@@ -1,0 +1,7 @@
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\bin\Debug\aggregation task.exe.config
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\bin\Debug\aggregation task.exe
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\bin\Debug\aggregation task.pdb
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\obj\Debug\aggregation task.csprojResolveAssemblyReference.cache
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\obj\Debug\aggregation task.csproj.CoreCompileInputs.cache
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\obj\Debug\aggregation task.exe
+D:\new trainee\smalltask\aggre task\aggregation task\aggregation task\obj\Debug\aggregation task.pdb

@@ -1,0 +1,7 @@
+D:\new trainee\smalltask\constructor\constructor\bin\Debug\constructor.exe.config
+D:\new trainee\smalltask\constructor\constructor\bin\Debug\constructor.exe
+D:\new trainee\smalltask\constructor\constructor\bin\Debug\constructor.pdb
+D:\new trainee\smalltask\constructor\constructor\obj\Debug\constructor.csprojResolveAssemblyReference.cache
+D:\new trainee\smalltask\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+D:\new trainee\smalltask\constructor\constructor\obj\Debug\constructor.exe
+D:\new trainee\smalltask\constructor\constructor\obj\Debug\constructor.pdb

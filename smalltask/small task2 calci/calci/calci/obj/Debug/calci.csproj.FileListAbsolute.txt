@@ -1,0 +1,7 @@
+D:\new trainee\smalltask\small task2 calci\calci\calci\bin\Debug\calci.exe.config
+D:\new trainee\smalltask\small task2 calci\calci\calci\bin\Debug\calci.exe
+D:\new trainee\smalltask\small task2 calci\calci\calci\bin\Debug\calci.pdb
+D:\new trainee\smalltask\small task2 calci\calci\calci\obj\Debug\calci.csprojResolveAssemblyReference.cache
+D:\new trainee\smalltask\small task2 calci\calci\calci\obj\Debug\calci.csproj.CoreCompileInputs.cache
+D:\new trainee\smalltask\small task2 calci\calci\calci\obj\Debug\calci.exe
+D:\new trainee\smalltask\small task2 calci\calci\calci\obj\Debug\calci.pdb

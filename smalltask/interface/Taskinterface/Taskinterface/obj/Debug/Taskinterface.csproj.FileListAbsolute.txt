@@ -1,0 +1,7 @@
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\bin\Debug\Taskinterface.exe.config
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\bin\Debug\Taskinterface.exe
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\bin\Debug\Taskinterface.pdb
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\obj\Debug\Taskinterface.csprojResolveAssemblyReference.cache
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\obj\Debug\Taskinterface.csproj.CoreCompileInputs.cache
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\obj\Debug\Taskinterface.exe
+D:\new trainee\smalltask\interface\Taskinterface\Taskinterface\obj\Debug\Taskinterface.pdb
